@@ -1,6 +1,6 @@
 # vue2
 
-> A Vue.js project
+> A Vue.js project used beauty2 UI
 
 ## Build Setup
 
