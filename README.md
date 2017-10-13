@@ -1,4 +1,4 @@
-# vue2
+# vue-beauty2
 
 > A Vue.js project used beauty2 UI
 
